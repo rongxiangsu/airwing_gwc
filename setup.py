@@ -24,9 +24,9 @@ AUTHOR = "wushi"
 
 AUTHOR_EMAIL = "hfutsrx@gmail.com"
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
-URL = "https://github.com/surongxiang/python_geoserver"
+URL = "https://github.com/surongxiang/airwing_gwc"
 
 LICENSE = "MIT"
 
